@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @davitkhanal-ai
-- 👀 I’m this and that
-- 🌱 I’m currently learning frontend development
-- 💞️ I’m looking to collaborate on myself hahahahahahahaha
-- 📫 How to reach me , i am intorvert
+- 👀 I’m gamer and backend lover
+- 🌱 I’m currently learning backend development most probably in Node js
+- 📫 i love playing dota 2 and learning node js
+- feel free to drop ideas and suggestion here
 
 <!---
 davitkhanal-ai/davitkhanal-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
